@@ -2,7 +2,7 @@
 
 * 🌍  I'm based in Toulouse (France)
 * ✉️  You can contact me at [jadejuliette.beaujour@gmail.com](mailto:jadejuliette.beaujour@gmail.com)
-* 🚀  I'm currently a student (in first year) of a [Bachelor in Computer Science](https://www.univ-tlse3.fr/but-specialite-informatique)
+* 🚀  I'm currently a student (in second year) of a [Bachelor in Computer Science](https://www.univ-tlse3.fr/but-specialite-informatique)
 * 💬  I speak fluently french & english
 * 🌱  I aspire to be a Data Scientist or a Quant
 
